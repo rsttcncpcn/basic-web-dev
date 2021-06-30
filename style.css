@@ -1,0 +1,17 @@
+.carousel-image-container {
+  height: 30rem;
+}
+
+#products-container {
+    width: 90vw;   
+    /* height: 500px; */
+    display: flex;
+    flex-flow: wrap;
+    margin: auto;
+}
+
+#products-container div {
+    width: 23%;
+    margin: 1%;
+    height: 50px;
+}
